@@ -18,9 +18,9 @@ I gave it couple TV series I've watched and based on them it generated series th
 
 ## Comparison to Google Bard
 
-**Google Bard** gave me the result that wasn't really fighting for me and it wasn't even close to TV Series that I gave it to analyze.
+**Google Bard** gave me the result that wasn't really fitting for me and it wasn't even close to TV Series that I gave it to analyze.
 
-It sticked to one series that I provided and gave me propositions based on that one only.
+It felt like it sticked to one series that I provided and gave me propositions based on that one only.
 
 The only one that fits is *"Love, Dead & Robots."*
 ## Google Bard
